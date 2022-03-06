@@ -5,7 +5,7 @@ const svgFooter = <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
 const Footer = () => {
    return (
       <footer>
-         <a href="#">
+         <a href="https://github.com/Fyuyko/ToDo">
             Ссылка на перозиторий {svgFooter}
          </a>
       </footer>

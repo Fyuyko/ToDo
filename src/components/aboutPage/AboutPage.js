@@ -12,7 +12,7 @@ const AboutPage = () => {
          <h4>
             Стили: Bootstrap
          </h4>
-         <h2><a>Ссылка на репозиторий {svg}</a></h2>
+         <h4><a href="https://github.com/Fyuyko/ToDo">Ссылка на репозиторий {svg}</a></h4>
       </div>
    );
 };

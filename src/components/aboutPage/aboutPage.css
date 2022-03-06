@@ -4,4 +4,6 @@
 
 .about__app a {
    margin: 0;
+   text-decoration: none;
+   color:black
 }
