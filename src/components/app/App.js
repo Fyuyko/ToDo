@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { v4 as uuidv4 } from 'uuid';
-import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import { /* BrowserRouter */ HashRouter as Router, Routes, Route} from "react-router-dom";
 
 import Header from "../header/Header";
 import MainPage from "../mainPage/MainPage";
